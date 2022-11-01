@@ -40,7 +40,7 @@ const Form = () => {
 
   return (
     <>
-      <Text size="xl" weight={600} mb="xl">
+      <Text size="xl" weight={600} mb="md">
         HMAC-SHA256
       </Text>
       <div className="form">
